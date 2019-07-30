@@ -1,0 +1,19 @@
+{
+  "name": "mpvue-circle-progress",
+  "version": "1.0.0",
+  "description": "mpvue圆形进度条",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/linda1994/mpvue-circle-progress.git"
+  },
+  "author": "linda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/linda1994/mpvue-circle-progress/issues"
+  },
+  "homepage": "https://gitlab.com/linda1994/mpvue-circle-progress#README"
+}
