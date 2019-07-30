@@ -1,4 +1,4 @@
-## mini-circlrProgress
+## mpvue-circle-progress
 
 ### Installation
 
@@ -78,7 +78,7 @@ export default {
         type: String,
         default: 'gap'
       },
-      // 圆形或者圆形缺口
+      // 圆形里面文字
       text: {
         type: String,
         default: ''
