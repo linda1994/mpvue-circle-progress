@@ -3,7 +3,7 @@
 ### Installation
 
 ```shell
-npm install mini-circleprogress
+npm install mpvue-circle-progress
 ```
 
 ### Usage
